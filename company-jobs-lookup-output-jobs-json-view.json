@@ -1,6 +1,45 @@
 [
   {
     "companyName": "Notion",
+    "title": "Enterprise Solutions Consultant (New York, NY)",
+    "department": "Sales",
+    "location": "New York, New York",
+    "country": "US",
+    "remote": null,
+    "employmentType": "Full-time",
+    "seniority": null,
+    "postedAt": "2026-11-17",
+    "url": "https://jobs.ashbyhq.com/notion/f5f95c45-7a2b-4abd-9875-f64dfbc89342",
+    "salary": null
+  },
+  {
+    "companyName": "Notion",
+    "title": "GTM Pricing & Packaging Lead, Commercial Operations",
+    "department": "Revenue Operations & Strategy",
+    "location": "San Francisco, California",
+    "country": "US",
+    "remote": "remote",
+    "employmentType": "Full-time",
+    "seniority": "lead",
+    "postedAt": "2026-11-17",
+    "url": "https://jobs.ashbyhq.com/notion/da9a9a45-10e3-4c6a-916f-f89ee4cf29a4",
+    "salary": null
+  },
+  {
+    "companyName": "Notion",
+    "title": "Market Researcher",
+    "department": "User Research and Product Operations",
+    "location": "San Francisco, California",
+    "country": "US",
+    "remote": null,
+    "employmentType": "Full-time",
+    "seniority": null,
+    "postedAt": "2026-11-17",
+    "url": "https://jobs.ashbyhq.com/notion/b741addb-c38b-4b62-9786-ea86a30953d2",
+    "salary": null
+  },
+  {
+    "companyName": "Notion",
     "title": "Commercial Solutions Consultant",
     "department": "Sales",
     "location": "Singapore",
@@ -218,45 +257,6 @@
     "seniority": "manager",
     "postedAt": "2026-11-10",
     "url": "https://jobs.ashbyhq.com/notion/e4b7c4d5-9c71-4f82-bf32-0af60e1f2a9f",
-    "salary": null
-  },
-  {
-    "companyName": "Notion",
-    "title": "Product Design Intern (Summer 2027)",
-    "department": "Early Career",
-    "location": "New York, New York",
-    "country": "US",
-    "remote": "remote",
-    "employmentType": "Internship",
-    "seniority": "intern",
-    "postedAt": "2026-11-10",
-    "url": "https://jobs.ashbyhq.com/notion/ea6f01b1-dda2-4b0f-b351-d3e7c5e9c9e9",
-    "salary": null
-  },
-  {
-    "companyName": "Notion",
-    "title": "Software Engineer, Web Infrastructure",
-    "department": "Engineering",
-    "location": "San Francisco, California",
-    "country": "US",
-    "remote": "remote",
-    "employmentType": "Full-time",
-    "seniority": "mid",
-    "postedAt": "2026-11-09",
-    "url": "https://jobs.ashbyhq.com/notion/06c2599d-4dd5-4f97-843f-7194b546f042",
-    "salary": null
-  },
-  {
-    "companyName": "Notion",
-    "title": "Solutions Consultant, Mid Market, MEA",
-    "department": "Sales",
-    "location": "Dublin, Ireland",
-    "country": "IE",
-    "remote": null,
-    "employmentType": "Full-time",
-    "seniority": null,
-    "postedAt": "2026-11-06",
-    "url": "https://jobs.ashbyhq.com/notion/499cda6b-522b-4596-8a4c-30efbb1e6b2a",
     "salary": null
   }
 ]
